@@ -19,12 +19,10 @@ Cassie 🌹</a></h1>
     alt="kawaiicassie" 
     bg_color=#282A36/></p>
 
-<div align=center>
 <h2>🎉 Connect with me 🤝</h2>
 <a target="_blank" href="https://siehome.vercel.app"><img src="https://img.shields.io/badge/-Homepage-ff5e99?style=for-the-badge&logo=googlehome&logoColor=white"></img></a>
 <a target="_blank" href="https://kawaiicassie.github.io"><img src="https://img.shields.io/badge/-Blog-5ea6ff?style=for-the-badge&logo=blogger&logoColor=white"></img></a>
 <a target="_blank" href="mailto:lamngan1250@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-</div>
 
 ---
 <div align=center>
