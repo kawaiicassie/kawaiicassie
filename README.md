@@ -8,13 +8,15 @@ Cassie 🌹</a></h1>
 ## 👩‍🌾 About me ( •̀ ω •́ )✧
 - 🌼 My name is Thu Ngan, which means Cashier in Vietnamese.
   - 🤩 So I shortened my name to Cassie. 👏
-- 💜 I'm from Vietnam
+- 💜 I'm from Vietnam 🇻🇳
 - 🌻 In their twenties.. (っ °Д °;)っ
 - 🌷 Beginner programmer (HTML, CSS, JS are my favourite 💗)
 - 🎐 ... (*￣3￣)╭
 
-## 📝 Statistical Data （＾∀＾●）ﾉｼ
+## 📝 Data （＾∀＾●）ﾉｼ
+<div align=left>
 <a href="https://github.com/kawaiicassie" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kawaiicassie&show_icons=true&locale=en&bg_color=282A36&text_color=F8F8F2&layout=compact"></a>
+</div>
 
 <h2>🎉 Connect with me 🤝</h2>
 <a target="_blank" href="https://kawaiicassie.io.vn"><img src="https://img.shields.io/badge/-Homepage-ff5e99?style=for-the-badge&logo=googlehome&logoColor=white"></img></a> <a target="_blank" href="https://blog.kawaiicassie.io.vn"><img src="https://img.shields.io/badge/-Blog-5ea6ff?style=for-the-badge&logo=blogger&logoColor=white"></img></a> <a target="_blank" href="mailto:lamngan1250@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
