@@ -8,7 +8,6 @@ Cassie 🌹</a></h1>
 ## 👩‍🌾 About me ( •̀ ω •́ )✧
 
 - 🌼 My name is Thu Ngan, which means "cashier" in Vietnamese.
-  - 🤩 So I shortened my name to Cassie. 👏
 - 💜 I'm from Vietnam.
 - 🌻 In my twenties.. (っ °Д °;)っ
 - 🌷 Beginner programmer (HTML, CSS, and JS are my favorites 💗)
