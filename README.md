@@ -15,7 +15,7 @@ Cassie 🌹</a></h1>
 
 <div align=center>
 <h2>📝 Data （＾∀＾●）ﾉｼ</h2>
-<a href="https://github.com/kawaiicassie" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kawaiicassie&show_icons=true&locale=en&bg_color=282A36&text_color=F8F8F2&layout=compact"></a>
+<a href="https://github.com/kawaiicassie" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kawaiicassie&show_icons=true&locale=en&bg_color=eeeeee&text_color=F8F8F2&layout=compact"></a>
 </div>
 
 <div align=center>
@@ -29,7 +29,7 @@ Cassie 🌹</a></h1>
 
 ---
 <div align=center>
-<a href="https://kawaiicassie.github.io" target="blank"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Tr%C6%B0%E1%BB%9Bc%20c%C6%A1n%20b%C3%A3o%20gi%C3%B4ng%20l%C3%A0%20m%E1%BB%99t%20b%E1%BA%A7u%20tr%E1%BB%9Di%20b%C3%ACnh%20y%C3%AAn."></a>
+<a href="https://kawaiicassie.github.io" target="blank"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"></a>
 </div>
 <i><p align="center">Welcome to my space 🎀. Have a nice day! ✨💕</p></i>
 <!---
