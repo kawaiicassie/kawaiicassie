@@ -24,14 +24,13 @@ Cassie 🌹</a></h1>
 </div>
 
 <div align=center>
-<a href="https://discord.gg/phonguoiviet"><img src="https://lanyard.kyrie25.me/api/1159348783876931634?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
+<a href="https://discord.gg/phonguoiviet"><img src="https://lanyard.kyrie25.me/api/1159348783876931634?theme=light&decoration=false&useDisplayName=true&imgStyle=square&waveColor=f2c6d1&waveSpotifyColor=f2c6d1"></a>
 </div>
 
 ---
 <div align=center>
-<a href="https://kawaiicassie.github.io" target="blank"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Tr%C6%B0%E1%BB%9Bc%20c%C6%A1n%20b%C3%A3o%20gi%C3%B4ng%20l%C3%A0%20m%E1%BB%99t%20b%E1%BA%A7u%20tr%E1%BB%9Di%20b%C3%ACnh%20y%C3%AAn"></a>
+<a href="https://kawaiicassie.github.io" target="blank"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Tr%C6%B0%E1%BB%9Bc%20c%C6%A1n%20b%C3%A3o%20gi%C3%B4ng%20l%C3%A0%20m%E1%BB%99t%20b%E1%BA%A7u%20tr%E1%BB%9Di%20b%C3%ACnh%20y%C3%AAn."></a>
 </div>
-
 <i><p align="center">Welcome to my space 🎀. Have a nice day! ✨💕</p></i>
 <!---
 kawaiicassie/kawaiicassie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
