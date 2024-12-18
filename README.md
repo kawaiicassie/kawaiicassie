@@ -13,15 +13,17 @@ Cassie 🌹</a></h1>
 - 🌷 Beginner programmer (HTML, CSS, and JS are my favorites 💗)
 - 🎐 ... (*￣3￣)╭
 
+<div align=center>
 ## 📝 Data （＾∀＾●）ﾉｼ
-<div align=left>
 <a href="https://github.com/kawaiicassie" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kawaiicassie&show_icons=true&locale=en&bg_color=282A36&text_color=F8F8F2&layout=compact"></a>
 </div>
 
+<div align=center>
 <h2>🎉 Connect with me 🤝</h2>
 <a target="_blank" href="https://kawaiicassie.io.vn"><img src="https://img.shields.io/badge/-Homepage-ff5e99?style=for-the-badge&logo=googlehome&logoColor=white"></img></a> <a target="_blank" href="https://blog.kawaiicassie.io.vn"><img src="https://img.shields.io/badge/-Blog-5ea6ff?style=for-the-badge&logo=blogger&logoColor=white"></img></a> <a target="_blank" href="mailto:lamngan1250@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a><br>
+</div>
 
-<div align=left>
+<div align=center>
 <a href="https://discord.gg/phonguoiviet"><img src="https://lanyard.kyrie25.me/api/1159348783876931634?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 </div>
 
