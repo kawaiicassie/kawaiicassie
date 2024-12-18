@@ -14,7 +14,7 @@ Cassie 🌹</a></h1>
 - 🎐 ... (*￣3￣)╭
 
 <div align=center>
-## 📝 Data （＾∀＾●）ﾉｼ
+<h2>📝 Data （＾∀＾●）ﾉｼ</h2>
 <a href="https://github.com/kawaiicassie" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kawaiicassie&show_icons=true&locale=en&bg_color=282A36&text_color=F8F8F2&layout=compact"></a>
 </div>
 
