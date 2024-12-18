@@ -15,7 +15,7 @@ Cassie 🌹</a></h1>
 
 <div align=center>
 <h2>📝 Data （＾∀＾●）ﾉｼ</h2>
-<a href="https://github.com/kawaiicassie" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kawaiicassie&show_icons=true&locale=en&bg_color=eeeeee&text_color=F8F8F2&layout=compact"></a>
+<a href="https://github.com/kawaiicassie" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kawaiicassie&show_icons=true&locale=en&bg_color=eeeeee&text_color=585858&layout=compact"></a>
 </div>
 
 <div align=center>
